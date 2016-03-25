@@ -28,29 +28,29 @@ The C compiler identification is AppleClang, found in "/Users/Vareto/Documents/O
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_e48e8/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e48e8.dir/build.make CMakeFiles/cmTC_e48e8.dir/build
-Building CXX object CMakeFiles/cmTC_e48e8.dir/testCXXCompiler.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++      -o CMakeFiles/cmTC_e48e8.dir/testCXXCompiler.cxx.o -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_e48e8
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e48e8.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_e48e8.dir/testCXXCompiler.cxx.o  -o cmTC_e48e8  
+Run Build Command:"/usr/bin/make" "cmTC_9f062/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9f062.dir/build.make CMakeFiles/cmTC_9f062.dir/build
+Building CXX object CMakeFiles/cmTC_9f062.dir/testCXXCompiler.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++      -o CMakeFiles/cmTC_9f062.dir/testCXXCompiler.cxx.o -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_9f062
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9f062.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_9f062.dir/testCXXCompiler.cxx.o  -o cmTC_9f062  
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_12464/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_12464.dir/build.make CMakeFiles/cmTC_12464.dir/build
-Building CXX object CMakeFiles/cmTC_12464.dir/CMakeCXXCompilerABI.cpp.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++      -o CMakeFiles/cmTC_12464.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_12464
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_12464.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_12464.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_12464   
+Run Build Command:"/usr/bin/make" "cmTC_e2cbd/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e2cbd.dir/build.make CMakeFiles/cmTC_e2cbd.dir/build
+Building CXX object CMakeFiles/cmTC_e2cbd.dir/CMakeCXXCompilerABI.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++      -o CMakeFiles/cmTC_e2cbd.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_e2cbd
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e2cbd.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_e2cbd.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_e2cbd   
 Apple LLVM version 7.0.2 (clang-700.1.81)
 Target: x86_64-apple-darwin15.3.0
 Thread model: posix
- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -o cmTC_12464 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_12464.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -o cmTC_e2cbd -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_e2cbd.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-253.9
 configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em (tvOS)
 Library search paths:
@@ -65,17 +65,17 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_12464/fast"]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_12464.dir/build.make CMakeFiles/cmTC_12464.dir/build]
-  ignore line: [Building CXX object CMakeFiles/cmTC_12464.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++      -o CMakeFiles/cmTC_12464.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_12464]
-  ignore line: [/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_12464.dir/link.txt --verbose=1]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_12464.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_12464   ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_e2cbd/fast"]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e2cbd.dir/build.make CMakeFiles/cmTC_e2cbd.dir/build]
+  ignore line: [Building CXX object CMakeFiles/cmTC_e2cbd.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++      -o CMakeFiles/cmTC_e2cbd.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_e2cbd]
+  ignore line: [/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e2cbd.dir/link.txt --verbose=1]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_e2cbd.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_e2cbd   ]
   ignore line: [Apple LLVM version 7.0.2 (clang-700.1.81)]
   ignore line: [Target: x86_64-apple-darwin15.3.0]
   ignore line: [Thread model: posix]
-  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -o cmTC_12464 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_12464.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -o cmTC_e2cbd -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_e2cbd.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-dynamic] ==> ignore
@@ -84,11 +84,11 @@ Parsed CXX implicit link information from above output:
     arg [-macosx_version_min] ==> ignore
     arg [10.11.0] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_12464] ==> ignore
+    arg [cmTC_e2cbd] ==> ignore
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTC_12464.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_e2cbd.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lc++] ==> lib [c++]
     arg [-lSystem] ==> lib [System]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a]
@@ -110,13 +110,13 @@ Parsed CXX implicit link information from above output:
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_2ddcb/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_2ddcb.dir/build.make CMakeFiles/cmTC_2ddcb.dir/build
-Building CXX object CMakeFiles/cmTC_2ddcb.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_2ddcb.dir/feature_tests.cxx.o -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_2ddcb
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2ddcb.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2ddcb.dir/feature_tests.cxx.o  -o cmTC_2ddcb  
+Run Build Command:"/usr/bin/make" "cmTC_39805/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_39805.dir/build.make CMakeFiles/cmTC_39805.dir/build
+Building CXX object CMakeFiles/cmTC_39805.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_39805.dir/feature_tests.cxx.o -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_39805
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_39805.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_39805.dir/feature_tests.cxx.o  -o cmTC_39805  
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -181,13 +181,13 @@ Linking CXX executable cmTC_2ddcb
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_355eb/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_355eb.dir/build.make CMakeFiles/cmTC_355eb.dir/build
-Building CXX object CMakeFiles/cmTC_355eb.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_355eb.dir/feature_tests.cxx.o -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_355eb
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_355eb.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_355eb.dir/feature_tests.cxx.o  -o cmTC_355eb  
+Run Build Command:"/usr/bin/make" "cmTC_ea48a/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_ea48a.dir/build.make CMakeFiles/cmTC_ea48a.dir/build
+Building CXX object CMakeFiles/cmTC_ea48a.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_ea48a.dir/feature_tests.cxx.o -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_ea48a
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ea48a.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_ea48a.dir/feature_tests.cxx.o  -o cmTC_ea48a  
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -252,13 +252,13 @@ Linking CXX executable cmTC_355eb
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_3394b/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_3394b.dir/build.make CMakeFiles/cmTC_3394b.dir/build
-Building CXX object CMakeFiles/cmTC_3394b.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_3394b.dir/feature_tests.cxx.o -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_3394b
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3394b.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_3394b.dir/feature_tests.cxx.o  -o cmTC_3394b  
+Run Build Command:"/usr/bin/make" "cmTC_fa949/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fa949.dir/build.make CMakeFiles/cmTC_fa949.dir/build
+Building CXX object CMakeFiles/cmTC_fa949.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_fa949.dir/feature_tests.cxx.o -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_fa949
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fa949.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_fa949.dir/feature_tests.cxx.o  -o cmTC_fa949  
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -321,29 +321,29 @@ Linking CXX executable cmTC_3394b
 Determining if the C compiler works passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b658f/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b658f.dir/build.make CMakeFiles/cmTC_b658f.dir/build
-Building C object CMakeFiles/cmTC_b658f.dir/testCCompiler.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -o CMakeFiles/cmTC_b658f.dir/testCCompiler.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_b658f
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b658f.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_b658f.dir/testCCompiler.c.o  -o cmTC_b658f  
+Run Build Command:"/usr/bin/make" "cmTC_d37d5/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d37d5.dir/build.make CMakeFiles/cmTC_d37d5.dir/build
+Building C object CMakeFiles/cmTC_d37d5.dir/testCCompiler.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -o CMakeFiles/cmTC_d37d5.dir/testCCompiler.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_d37d5
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d37d5.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_d37d5.dir/testCCompiler.c.o  -o cmTC_d37d5  
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_fc51d/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fc51d.dir/build.make CMakeFiles/cmTC_fc51d.dir/build
-Building C object CMakeFiles/cmTC_fc51d.dir/CMakeCCompilerABI.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -o CMakeFiles/cmTC_fc51d.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_fc51d
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc51d.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_fc51d.dir/CMakeCCompilerABI.c.o  -o cmTC_fc51d   
+Run Build Command:"/usr/bin/make" "cmTC_4fd3e/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4fd3e.dir/build.make CMakeFiles/cmTC_4fd3e.dir/build
+Building C object CMakeFiles/cmTC_4fd3e.dir/CMakeCCompilerABI.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -o CMakeFiles/cmTC_4fd3e.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_4fd3e
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4fd3e.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_4fd3e.dir/CMakeCCompilerABI.c.o  -o cmTC_4fd3e   
 Apple LLVM version 7.0.2 (clang-700.1.81)
 Target: x86_64-apple-darwin15.3.0
 Thread model: posix
- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -o cmTC_fc51d -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_fc51d.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -o cmTC_4fd3e -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_4fd3e.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-253.9
 configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em (tvOS)
 Library search paths:
@@ -358,17 +358,17 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_fc51d/fast"]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fc51d.dir/build.make CMakeFiles/cmTC_fc51d.dir/build]
-  ignore line: [Building C object CMakeFiles/cmTC_fc51d.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -o CMakeFiles/cmTC_fc51d.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_fc51d]
-  ignore line: [/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc51d.dir/link.txt --verbose=1]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_fc51d.dir/CMakeCCompilerABI.c.o  -o cmTC_fc51d   ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_4fd3e/fast"]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4fd3e.dir/build.make CMakeFiles/cmTC_4fd3e.dir/build]
+  ignore line: [Building C object CMakeFiles/cmTC_4fd3e.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -o CMakeFiles/cmTC_4fd3e.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_4fd3e]
+  ignore line: [/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4fd3e.dir/link.txt --verbose=1]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_4fd3e.dir/CMakeCCompilerABI.c.o  -o cmTC_4fd3e   ]
   ignore line: [Apple LLVM version 7.0.2 (clang-700.1.81)]
   ignore line: [Target: x86_64-apple-darwin15.3.0]
   ignore line: [Thread model: posix]
-  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -o cmTC_fc51d -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_fc51d.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -o cmTC_4fd3e -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_4fd3e.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-dynamic] ==> ignore
@@ -377,11 +377,11 @@ Parsed C implicit link information from above output:
     arg [-macosx_version_min] ==> ignore
     arg [10.11.0] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_fc51d] ==> ignore
+    arg [cmTC_4fd3e] ==> ignore
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTC_fc51d.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_4fd3e.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lSystem] ==> lib [System]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/lib/darwin/libclang_rt.osx.a]
   Library search paths: [;/usr/lib;/usr/local/lib]
@@ -402,13 +402,13 @@ Parsed C implicit link information from above output:
 Detecting C [-std=c11] compiler features compiled with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d60e4/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d60e4.dir/build.make CMakeFiles/cmTC_d60e4.dir/build
-Building C object CMakeFiles/cmTC_d60e4.dir/feature_tests.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_d60e4.dir/feature_tests.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_d60e4
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d60e4.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_d60e4.dir/feature_tests.c.o  -o cmTC_d60e4  
+Run Build Command:"/usr/bin/make" "cmTC_9068c/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9068c.dir/build.make CMakeFiles/cmTC_9068c.dir/build
+Building C object CMakeFiles/cmTC_9068c.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_9068c.dir/feature_tests.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_9068c
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9068c.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_9068c.dir/feature_tests.c.o  -o cmTC_9068c  
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -420,13 +420,13 @@ Linking C executable cmTC_d60e4
 Detecting C [-std=c99] compiler features compiled with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c6d47/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c6d47.dir/build.make CMakeFiles/cmTC_c6d47.dir/build
-Building C object CMakeFiles/cmTC_c6d47.dir/feature_tests.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_c6d47.dir/feature_tests.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_c6d47
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c6d47.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_c6d47.dir/feature_tests.c.o  -o cmTC_c6d47  
+Run Build Command:"/usr/bin/make" "cmTC_6117c/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6117c.dir/build.make CMakeFiles/cmTC_6117c.dir/build
+Building C object CMakeFiles/cmTC_6117c.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_6117c.dir/feature_tests.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_6117c
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6117c.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_6117c.dir/feature_tests.c.o  -o cmTC_6117c  
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -438,13 +438,13 @@ Linking C executable cmTC_c6d47
 Detecting C [-std=c90] compiler features compiled with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_aa3d2/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_aa3d2.dir/build.make CMakeFiles/cmTC_aa3d2.dir/build
-Building C object CMakeFiles/cmTC_aa3d2.dir/feature_tests.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_aa3d2.dir/feature_tests.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_aa3d2
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aa3d2.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_aa3d2.dir/feature_tests.c.o  -o cmTC_aa3d2  
+Run Build Command:"/usr/bin/make" "cmTC_4a985/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4a985.dir/build.make CMakeFiles/cmTC_4a985.dir/build
+Building C object CMakeFiles/cmTC_4a985.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_4a985.dir/feature_tests.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_4a985
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4a985.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_4a985.dir/feature_tests.c.o  -o cmTC_4a985  
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -454,180 +454,156 @@ Linking C executable cmTC_aa3d2
 Determining if the include file sys/types.h exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_254d5/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_254d5.dir/build.make CMakeFiles/cmTC_254d5.dir/build
-Building C object CMakeFiles/cmTC_254d5.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_254d5.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_254d5
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_254d5.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_254d5.dir/CheckIncludeFile.c.o  -o cmTC_254d5  
+Run Build Command:"/usr/bin/make" "cmTC_1f852/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_1f852.dir/build.make CMakeFiles/cmTC_1f852.dir/build
+Building C object CMakeFiles/cmTC_1f852.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_1f852.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_1f852
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1f852.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_1f852.dir/CheckIncludeFile.c.o  -o cmTC_1f852  
 
 
 Determining if the include file stdint.h exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_6af20/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6af20.dir/build.make CMakeFiles/cmTC_6af20.dir/build
-Building C object CMakeFiles/cmTC_6af20.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_6af20.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_6af20
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6af20.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_6af20.dir/CheckIncludeFile.c.o  -o cmTC_6af20  
+Run Build Command:"/usr/bin/make" "cmTC_fe01e/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fe01e.dir/build.make CMakeFiles/cmTC_fe01e.dir/build
+Building C object CMakeFiles/cmTC_fe01e.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_fe01e.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_fe01e
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fe01e.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_fe01e.dir/CheckIncludeFile.c.o  -o cmTC_fe01e  
 
 
 Determining if the include file stddef.h exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a97e6/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_a97e6.dir/build.make CMakeFiles/cmTC_a97e6.dir/build
-Building C object CMakeFiles/cmTC_a97e6.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_a97e6.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_a97e6
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a97e6.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_a97e6.dir/CheckIncludeFile.c.o  -o cmTC_a97e6  
+Run Build Command:"/usr/bin/make" "cmTC_cf320/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_cf320.dir/build.make CMakeFiles/cmTC_cf320.dir/build
+Building C object CMakeFiles/cmTC_cf320.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_cf320.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_cf320
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cf320.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_cf320.dir/CheckIncludeFile.c.o  -o cmTC_cf320  
 
 
 Determining size of unsigned short passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d029f/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d029f.dir/build.make CMakeFiles/cmTC_d029f.dir/build
-Building C object CMakeFiles/cmTC_d029f.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_d029f.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CheckTypeSize/CMAKE_SIZEOF_UNSIGNED_SHORT.c
-Linking C executable cmTC_d029f
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d029f.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_d029f.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o  -o cmTC_d029f  
+Run Build Command:"/usr/bin/make" "cmTC_b0110/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b0110.dir/build.make CMakeFiles/cmTC_b0110.dir/build
+Building C object CMakeFiles/cmTC_b0110.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_b0110.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CheckTypeSize/CMAKE_SIZEOF_UNSIGNED_SHORT.c
+Linking C executable cmTC_b0110
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b0110.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_b0110.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o  -o cmTC_b0110  
 
 
 Determining if the function fseeko exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_5fcb3/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_5fcb3.dir/build.make CMakeFiles/cmTC_5fcb3.dir/build
-Building C object CMakeFiles/cmTC_5fcb3.dir/CheckFunctionExists.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden -DCHECK_FUNCTION_EXISTS=fseeko -O3 -DNDEBUG   -o CMakeFiles/cmTC_5fcb3.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CheckFunctionExists.c
-Linking C executable cmTC_5fcb3
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5fcb3.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden -DCHECK_FUNCTION_EXISTS=fseeko -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_5fcb3.dir/CheckFunctionExists.c.o  -o cmTC_5fcb3  
+Run Build Command:"/usr/bin/make" "cmTC_d7881/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d7881.dir/build.make CMakeFiles/cmTC_d7881.dir/build
+Building C object CMakeFiles/cmTC_d7881.dir/CheckFunctionExists.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden -DCHECK_FUNCTION_EXISTS=fseeko -O3 -DNDEBUG   -o CMakeFiles/cmTC_d7881.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_d7881
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d7881.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden -DCHECK_FUNCTION_EXISTS=fseeko -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_d7881.dir/CheckFunctionExists.c.o  -o cmTC_d7881  
 
 
 Determining if the include file unistd.h exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7a62b/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_7a62b.dir/build.make CMakeFiles/cmTC_7a62b.dir/build
-Building C object CMakeFiles/cmTC_7a62b.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_7a62b.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_7a62b
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7a62b.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_7a62b.dir/CheckIncludeFile.c.o  -o cmTC_7a62b  
+Run Build Command:"/usr/bin/make" "cmTC_699db/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_699db.dir/build.make CMakeFiles/cmTC_699db.dir/build
+Building C object CMakeFiles/cmTC_699db.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_699db.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_699db
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_699db.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_699db.dir/CheckIncludeFile.c.o  -o cmTC_699db  
 
 
 Determining if the include file assert.h exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_82ecd/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_82ecd.dir/build.make CMakeFiles/cmTC_82ecd.dir/build
-Building C object CMakeFiles/cmTC_82ecd.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_82ecd.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_82ecd
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_82ecd.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_82ecd.dir/CheckIncludeFile.c.o  -o cmTC_82ecd  
+Run Build Command:"/usr/bin/make" "cmTC_d59b8/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d59b8.dir/build.make CMakeFiles/cmTC_d59b8.dir/build
+Building C object CMakeFiles/cmTC_d59b8.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_d59b8.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_d59b8
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d59b8.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_d59b8.dir/CheckIncludeFile.c.o  -o cmTC_d59b8  
 
 
 Determining if the include file fcntl.h exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_2e199/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_2e199.dir/build.make CMakeFiles/cmTC_2e199.dir/build
-Building C object CMakeFiles/cmTC_2e199.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_2e199.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_2e199
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2e199.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2e199.dir/CheckIncludeFile.c.o  -o cmTC_2e199  
+Run Build Command:"/usr/bin/make" "cmTC_2a8db/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_2a8db.dir/build.make CMakeFiles/cmTC_2a8db.dir/build
+Building C object CMakeFiles/cmTC_2a8db.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_2a8db.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_2a8db
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2a8db.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2a8db.dir/CheckIncludeFile.c.o  -o cmTC_2a8db  
 
 
 Determining if the function mmap exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_03df2/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_03df2.dir/build.make CMakeFiles/cmTC_03df2.dir/build
-Building C object CMakeFiles/cmTC_03df2.dir/CheckFunctionExists.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden -DCHECK_FUNCTION_EXISTS=mmap -O3 -DNDEBUG   -o CMakeFiles/cmTC_03df2.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CheckFunctionExists.c
-Linking C executable cmTC_03df2
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_03df2.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden -DCHECK_FUNCTION_EXISTS=mmap -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_03df2.dir/CheckFunctionExists.c.o  -o cmTC_03df2  
+Run Build Command:"/usr/bin/make" "cmTC_c906d/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c906d.dir/build.make CMakeFiles/cmTC_c906d.dir/build
+Building C object CMakeFiles/cmTC_c906d.dir/CheckFunctionExists.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden -DCHECK_FUNCTION_EXISTS=mmap -O3 -DNDEBUG   -o CMakeFiles/cmTC_c906d.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.4.3/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_c906d
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c906d.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden -DCHECK_FUNCTION_EXISTS=mmap -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_c906d.dir/CheckFunctionExists.c.o  -o cmTC_c906d  
 
 
 Determining if the include file search.h exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_41d73/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_41d73.dir/build.make CMakeFiles/cmTC_41d73.dir/build
-Building C object CMakeFiles/cmTC_41d73.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_41d73.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_41d73
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_41d73.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_41d73.dir/CheckIncludeFile.c.o  -o cmTC_41d73  
+Run Build Command:"/usr/bin/make" "cmTC_725be/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_725be.dir/build.make CMakeFiles/cmTC_725be.dir/build
+Building C object CMakeFiles/cmTC_725be.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_725be.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_725be
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_725be.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_725be.dir/CheckIncludeFile.c.o  -o cmTC_725be  
 
 
 Determining if the include file string.h exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_1a667/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_1a667.dir/build.make CMakeFiles/cmTC_1a667.dir/build
-Building C object CMakeFiles/cmTC_1a667.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_1a667.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_1a667
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1a667.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_1a667.dir/CheckIncludeFile.c.o  -o cmTC_1a667  
+Run Build Command:"/usr/bin/make" "cmTC_c9b70/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c9b70.dir/build.make CMakeFiles/cmTC_c9b70.dir/build
+Building C object CMakeFiles/cmTC_c9b70.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_c9b70.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_c9b70
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c9b70.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_c9b70.dir/CheckIncludeFile.c.o  -o cmTC_c9b70  
 
 
 Determining if the include file unistd.h exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_43edd/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_43edd.dir/build.make CMakeFiles/cmTC_43edd.dir/build
-Building C object CMakeFiles/cmTC_43edd.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_43edd.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_43edd
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_43edd.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_43edd.dir/CheckIncludeFile.c.o  -o cmTC_43edd  
+Run Build Command:"/usr/bin/make" "cmTC_7dde8/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_7dde8.dir/build.make CMakeFiles/cmTC_7dde8.dir/build
+Building C object CMakeFiles/cmTC_7dde8.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_7dde8.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_7dde8
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7dde8.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_7dde8.dir/CheckIncludeFile.c.o  -o cmTC_7dde8  
 
 
 Determining if the include file semaphore.h exists passed with the following output:
 Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c7b93/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c7b93.dir/build.make CMakeFiles/cmTC_c7b93.dir/build
-Building C object CMakeFiles/cmTC_c7b93.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_c7b93.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_c7b93
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c7b93.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_c7b93.dir/CheckIncludeFile.c.o  -o cmTC_c7b93  
-
-
-Determining if the include file libavformat/avformat.h exists passed with the following output:
-Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_4bfcc/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4bfcc.dir/build.make CMakeFiles/cmTC_4bfcc.dir/build
-Building C object CMakeFiles/cmTC_4bfcc.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_4bfcc.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_4bfcc
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4bfcc.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_4bfcc.dir/CheckIncludeFile.c.o  -o cmTC_4bfcc  
-
-
-Determining if the include file libavformat/avformat.h exists passed with the following output:
-Change Dir: /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_b5d8d/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b5d8d.dir/build.make CMakeFiles/cmTC_b5d8d.dir/build
-Building C object CMakeFiles/cmTC_b5d8d.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_b5d8d.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_b5d8d
-/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b5d8d.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_b5d8d.dir/CheckIncludeFile.c.o  -o cmTC_b5d8d  
+Run Build Command:"/usr/bin/make" "cmTC_901f3/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_901f3.dir/build.make CMakeFiles/cmTC_901f3.dir/build
+Building C object CMakeFiles/cmTC_901f3.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_901f3.dir/CheckIncludeFile.c.o   -c /Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_901f3
+/usr/local/Cellar/cmake/3.4.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_901f3.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc     -fsigned-char -W -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_901f3.dir/CheckIncludeFile.c.o  -o cmTC_901f3  
 
 

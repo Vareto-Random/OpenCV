@@ -7,10 +7,10 @@
 
 function(_icv_downloader)
   # Commit SHA in the opencv_3rdparty repo
-  set(IPPICV_BINARIES_COMMIT "81a676001ca8075ada498583e4166079e5744668")
+  set(IPPICV_BINARIES_COMMIT "9662fe0694a67e59491a0dcc82fa26e0")
   # Define actual ICV versions
   if(APPLE)
-    set(OPENCV_ICV_PACKAGE_NAME "ippicv_macosx_20151201.tgz")
+    set(OPENCV_ICV_PACKAGE_NAME "ippicv_macosx_20141027.tgz")
     set(OPENCV_ICV_PACKAGE_HASH "4ff1fde9a7cfdfe7250bfcd8334e0f2f")
     set(OPENCV_ICV_PLATFORM "macosx")
     set(OPENCV_ICV_PACKAGE_SUBDIR "/ippicv_osx")
