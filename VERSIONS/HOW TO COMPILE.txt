@@ -1,0 +1,8 @@
+cmake -D CMAKE_INSTALL_PREFIX=/Users/Vareto/Documents/OpenCV/VERSIONS/2.4.12/build/Release CMAKE_BUILD_TYPE=Release 
+cmake -D CMAKE_INSTALL_PREFIX=/Users/Vareto/Documents/OpenCV/VERSIONS/2.4.12/build/Debug CMAKE_BUILD_TYPE=Debug
+
+cmake -D CMAKE_INSTALL_PREFIX=/Users/Vareto/Documents/OpenCV/VERSIONS/3.0.0/build/Release CMAKE_BUILD_TYPE=Release OPENCV_EXTRA_MODULES_PATH=../opencv_contrib-3.0.0/modules ../opencv-3.0.0
+cmake -D CMAKE_INSTALL_PREFIX=/Users/Vareto/Documents/OpenCV/VERSIONS/3.0.0/build/Debug CMAKE_BUILD_TYPE=Debug OPENCV_EXTRA_MODULES_PATH=../opencv_contrib-3.0.0/modules ../opencv-3.0.0
+
+cmake -D CMAKE_INSTALL_PREFIX=/Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/Release CMAKE_BUILD_TYPE=Release OPENCV_EXTRA_MODULES_PATH=../opencv_contrib-3.1.0/modules ../opencv-3.1.0
+cmake -D CMAKE_INSTALL_PREFIX=/Users/Vareto/Documents/OpenCV/VERSIONS/3.1.0/build/Debug CMAKE_BUILD_TYPE=Debug OPENCV_EXTRA_MODULES_PATH=../opencv_contrib-3.1.0/modules ../opencv-3.1.0
